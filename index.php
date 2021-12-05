@@ -47,7 +47,7 @@
             <h1 style=" font-size:5rem;margin-top:250px;">Get Better Healthcare,<br><hr>Make Life Beautiful.. <i class=" fa fa-stethoscope"></i></h1><hr>
             <h4> We are best leading meadical services providers of your<br> city we always ensure patients satisfactions </h4><br>
            
-            <a class="btn btn-success" href="http://localhost/HealthMS/dashboard.php" role="button" style="width:250px"><h5><i class=" fa fa-stethoscope"></i> Get started</h5></a><br>
+            <a class="btn btn-success" href="dashboard.php" role="button" style="width:250px"><h5><i class=" fa fa-stethoscope"></i> Get started</h5></a><br>
         </div>  
     </div>    
 </div>
